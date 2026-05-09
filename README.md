@@ -21,6 +21,10 @@ The goal of this project is to:
 - VS Code.
 - Claude Code.
 
+## RequestFlow
+
+[Application Request Flow](https://excalidraw.com/#json=2vBvj0bDs1sUuMdRNR1f6,kB54hDkL5nmK7AdEcblOWg)
+
 ## Claude Code in VS Code
 
 Install and use the Claude Code extension in VS Code to get AI assistance directly in your editor, including plan review, inline diffs, and conversation history. [web:28]
