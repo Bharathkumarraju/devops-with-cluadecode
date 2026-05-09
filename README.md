@@ -6,14 +6,14 @@ The [Micro-services-Architecture](https://github.com/spring-petclinic/spring-pet
 
 ![Microservices Architecture](./imgs/microservices-architecture.jpg)
 
-This project demonstrates how Claude Code can help accelerate cloud-native development, Kubernetes workflows, and deployment automation directly from VS Code. Amazon EKS is AWS’s managed Kubernetes service for running Kubernetes workloads at scale. [web:26]
+This project demonstrates how Claude Code can help accelerate cloud-native development, Kubernetes workflows, and deployment automation directly from VS Code. Amazon EKS is AWS’s managed Kubernetes service for running Kubernetes workloads at scale. 
 
 ## Overview
 
 The goal of this project is to:
 - Deploy Spring PetClinic microservices to Kubernetes on AWS EKS.
 - Use repeatable and automated deployment workflows.
-- Enable Claude Code inside VS Code for an AI-assisted development experience. [web:28]
+- Enable Claude Code inside VS Code for an AI-assisted development experience.
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ The goal of this project is to:
 
 ## Claude Code in VS Code
 
-Install and use the Claude Code extension in VS Code to get AI assistance directly in your editor, including plan review, inline diffs, and conversation history. [web:28]
+Install and use the Claude Code extension in VS Code to get AI assistance directly in your editor, including plan review, inline diffs, and conversation history.
 
 ![ClaudeCode in VScode](./imgs/claudecode_in_vscode.png)
 
