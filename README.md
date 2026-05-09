@@ -2,6 +2,8 @@
 
 Deploy the [spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) application on an Amazon EKS cluster using DevOps and infrastructure-as-code practices.
 
+The [Micro-services-Architecture](https://github.com/spring-petclinic/spring-petclinic-microservices/blob/main/docs/microservices-architecture-diagram.jpg)
+
 This project demonstrates how Claude Code can help accelerate cloud-native development, Kubernetes workflows, and deployment automation directly from VS Code. Amazon EKS is AWS’s managed Kubernetes service for running Kubernetes workloads at scale. [web:26]
 
 ## Overview
