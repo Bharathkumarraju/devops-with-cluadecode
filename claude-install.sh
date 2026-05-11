@@ -15,3 +15,8 @@ Setting up Claude Code...
 bharathkumardasaraju@1dot618labs-bharath$ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 bharathkumardasaraju@1dot618labs-bharath$
 
+
+bharathkumardasaraju@1dot618labs-bharath$ claude --version
+2.1.138 (Claude Code)
+bharathkumardasaraju@1dot618labs-bharath$
+
